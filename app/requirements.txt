@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+openai
+pandas
+numpy
+matplotlib
+openai
+langchain
+huggingface-hub
+llm
+# python==3.9
